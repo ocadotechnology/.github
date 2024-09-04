@@ -6,9 +6,9 @@ We're changing the way the world shops for good. Our founding vision was to use 
 
 Today, the [Ocado Smart Platform](https://www.ocadogroup.com/about-us/what-we-do/ocado-smart-platform/) is the world's most advanced end-to-end eCommerce, fulfilment and logistics platform.
 
-## 💗 Sharing and Contibuting
+## 💗 Sharing and Contributing
 
-We're excited to be able to share our work with you, from [Code for Life](https://www.codeforlife.education/), our non-profit initiative delivering free open source games to students who are learning computing, to [Ocava](https://github.com/ocadotechnology/Ocava), our in-house simultaion framework which underpins changes to our warehouse automation systems, and lots more.
+We're excited to be able to share our work with you, from [Code for Life](https://www.codeforlife.education/), our non-profit initiative delivering free open source games to students who are learning computing, to [Ocava](https://github.com/ocadotechnology/Ocava), our in-house simulation framework which underpins changes to our warehouse automation systems, and lots more.
 
 We'd love you to check these out, and we welcome contributions from you.
 

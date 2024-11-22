@@ -1,10 +1,8 @@
 ## 👋 This is [Ocado Technology](https://www.ocadogroup.com/technology/technology-pioneers/)
 
-![ An illustration which an Ocado 600 Series bot on the grid of a storage structure known as the Hive ](https://storageocadoprod.blob.core.windows.net/cache/c/6/9/c/6/a/c69c6a4908715aeaed6c565efa9952434aff8e46.webp)
-
 We're changing the way the world shops for good. Our founding vision was to use cutting-edge technology and automation to transform the online grocery space. There was no template for the solution we wanted to build. We developed the technology needed to move the industry to the next level from scratch.
 
-Today, the [Ocado Smart Platform](https://www.ocadogroup.com/about-us/what-we-do/ocado-smart-platform/) is the world's most advanced end-to-end eCommerce, fulfilment and logistics platform.
+Today, the [Ocado Smart Platform](https://www.ocadogroup.com/solutions/online-grocery) is the world's most advanced end-to-end eCommerce, fulfilment and logistics platform.
 
 ## 💗 Sharing and Contributing
 
